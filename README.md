@@ -58,7 +58,7 @@ Leading Category: The Classic and Supreme categories are the leading sales contr
 
 Size Impact: The Large pizza size drives the majority of sales volume and revenue at 45.89% of total sales, followed by the Medium size at 30.49%.
 
-# Results and Conclusion
+# Results
 The analysis successfully established a robust set of KPIs and highlighted critical operational patterns.
 
 Key Outcomes:
